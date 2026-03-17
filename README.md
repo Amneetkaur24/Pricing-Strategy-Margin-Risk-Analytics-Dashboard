@@ -1,4 +1,4 @@
-# Executive Pricing & Margin Risk Dashboard (Excel)
+# Pricing Margin Risk Analytics
 
 
 ## Objective
@@ -28,5 +28,14 @@ Which discount levels maximize revenue without increasing exposure to margin ris
 
 ## Business Value
 - Supports pricing and discount decisions by highlighting where revenue growth creates unacceptable margin exposure.
-
+## Structure
+pricing-margin-risk-analytics
+│
+├── data
+├── dashboard
+│   └── margin_dashboard.xlsm
+├── images
+│   └── dashboard_preview.png
+├── insights.md
+└── README.md
 ⚠️ Note: This file contains macros. Please enable macros to experience full interactivity.
